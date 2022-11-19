@@ -1,2 +1,2 @@
 # PythonCodes
-This repository contain some of the my first python challenges codes
+This repository contains some of my python challenge codes
